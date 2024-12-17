@@ -4,8 +4,8 @@
 
 ##My Earth Science Question:
     
-    How do hiking trails affect hillslope diffusion over time? How long does it take for the 
-    hiking trails to be affected by hillslope diffusion? 
+    How do hiking trails affect hillslope diffusion over time? How are hiking trails affected by 
+    hillslope diffusion?
 
     This model is a 2-dimensional diffusion problem
 
