@@ -3,7 +3,7 @@
 ####--------------------
 
 ##My Earth Science Question:
-    
+     
     How do hiking trails affect hillslope diffusion over time? How are hiking trails affected by 
     hillslope diffusion?
 
