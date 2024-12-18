@@ -1,4 +1,4 @@
-# EV320_Final_Project
+# EV320 South Skyline Trail in Eden Utah, Hillslope Diffusion Over 250 Years
 
 ####--------------------
 
